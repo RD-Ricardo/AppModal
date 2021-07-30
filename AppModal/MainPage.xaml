@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppModal.MainPage">
+
+    <StackLayout Orientation="Vertical" VerticalOptions="Center">
+        <Button  
+            Text="Abrir Modal" 
+            Padding="20" 
+            Margin="20" 
+            BackgroundColor="#4169E1" 
+            TextColor="White"
+            Clicked="AbrirModal"/>
+    </StackLayout>
+
+</ContentPage>
