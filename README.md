@@ -1,6 +1,8 @@
 # AppModal 
 
-### Aplicativo de demonstração modal feito em Xamarin Forms tecnologia .NET cross-plataform `📱 IOS ANDROID UWP` .
+### Aplicativo de demonstração modal feito em Xamarin Forms tecnologia .NET cross-plataform 
+
+`📱 IOS ANDROID UWP` .
 
 # 
 
