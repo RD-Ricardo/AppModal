@@ -2,7 +2,7 @@
 
 ### Aplicativo de demonstração modal feito em Xamarin Forms tecnologia .NET cross-plataform 
 
-`📱 IOS ANDROID UWP` .
+## `📱 IOS ANDROID UWP` .
 
 # 
 
